@@ -21,7 +21,7 @@ A simple, lightweight, and user-friendly To-Do List application built with HTML,
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/namansinghr/ToDo-LocalStorage.git
 
 2. Open `index.html` in your browser.
 
