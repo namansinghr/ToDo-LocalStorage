@@ -23,11 +23,7 @@ A simple, lightweight, and user-friendly To-Do List application built with HTML,
    ```sh
    git clone https://github.com/your-username/todo-app.git
 
-2. Navigate to the project folder:
-    ```sh
-    cd 01_todo-localstorage
-
-3. Open `index.html` in your browser.
+2. Open `index.html` in your browser.
 
 ## 🏗️ Usage
 
